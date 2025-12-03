@@ -36,19 +36,19 @@ considerados no teste foram:
 • Umidade do ar Mínima: 40%.
 • Umidade do solo Mínima: 40%.
 
-![a](imgs/1.jpg)
+![a](imgs/a1.jpg)
 
 Neste cenário, é possível observar que os irrigadores seriam acionados em
 momentos específicos durante a madrugada para aumentar a umidade, seguidos
 pela irrigação regular programada para as 8h da manhã.
 
-![a](imgs/2.jpg)
+![a](imgs/a2.jpg)
 
 Em relação à umidade do ar, os resultados podem ser visualizados acima.
 Nota-se que o acionamento ocorre em momentos específicos ao longo dos dias
 e se prolonga por algumas horas quando a umidade fica abaixo de 40%.
 
-![a](imgs/3.jpg)
+![a](imgs/a3.jpg)
 
 Em relação à luminosidade, os resultados podem ser visualizados acima.
 Neste cenário, não foram observadas oscilações no acionamento das lâmpadas.
