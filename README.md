@@ -18,9 +18,6 @@ Código responsável pela gerenciamento da temperatura
 Código responsável pela gerenciamento da luminosidade
 ![a](imgs/a5.png)
 
-Sensor conexão de aúdio
-![a](imgs/a6.png)
-
 Sensor de humidade
 ![a](imgs/a8.png)
 
