@@ -10,6 +10,22 @@ semelhante ao bioma brasileiro, bem como uma variação máxima entre uma
 amostra ou outra, reduzindo o efeito de aleatoriedade completa, e simulando as não
 idealidades dos sensores considerados para o trabalho.
 
+## Código do sistema em funcionamento
+
+Código responsável pela gerenciamento da temperatura
+![a](imgs/a4.jpg)
+
+Código responsável pela gerenciamento da luminosidade
+![a](imgs/a5.jpg)
+
+Sensor conexão de aúdio
+![a](imgs/a6.jpg)
+
+Sensor de humidade
+![a](imgs/a8.jpg)
+
+# Output e teste de caso
+
 ## Dados brutos gerados por hora
 
 • Para a temperatura, o ruído é ajustado para valores dentro do intervalo
