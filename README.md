@@ -13,16 +13,16 @@ idealidades dos sensores considerados para o trabalho.
 ## Código do sistema em funcionamento
 
 Código responsável pela gerenciamento da temperatura
-![a](imgs/a4.jpg)
+![a](imgs/a4.png)
 
 Código responsável pela gerenciamento da luminosidade
-![a](imgs/a5.jpg)
+![a](imgs/a5.png)
 
 Sensor conexão de aúdio
-![a](imgs/a6.jpg)
+![a](imgs/a6.png)
 
 Sensor de humidade
-![a](imgs/a8.jpg)
+![a](imgs/a8.png)
 
 # Output e teste de caso
 
